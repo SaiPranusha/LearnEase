@@ -1,6 +1,6 @@
 # StudyMuse
 
-LIVE STREAMLIT APP - https://studymuse-assist.streamlit.app/
+LIVE STREAMLIT APP - https://learnease08.streamlit.app/
 
 # Fun & Relatable Personal Assistant
 
