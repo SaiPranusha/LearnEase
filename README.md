@@ -1,4 +1,4 @@
-# StudyMuse
+# LearnEase
 
 LIVE STREAMLIT APP - https://learnease08.streamlit.app/
 
